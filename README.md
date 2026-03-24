@@ -94,7 +94,7 @@ max_python_bot/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone <URL_РЕПОЗИТОРИЯ>
+git clone https://github.com/Polen452294/MAX-Python-Bot.git
 cd max_python_bot
 ```
 
@@ -208,6 +208,5 @@ __pycache__/
 
 ## Лицензия
 
-```text
-MIT License
-```
+Проект распространяется по лицензии **MIT**.  
+Полный текст лицензии находится в файле [LICENSE](./LICENSE).
