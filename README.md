@@ -198,11 +198,13 @@ __pycache__/
 **Aleandr Ardashev**
 
 
-```md
+## Автор
+
+**Aleandr Ardashev**
+
 - GitHub: [Polen452294](https://github.com/Polen452294)
 - Telegram: [@likeaatea](https://t.me/likeaatea)
 - Website: [ardashevdev.ru](https://ardashevdev.ru/)
-```
 
 ---
 
