@@ -94,7 +94,7 @@ max_python_bot/
 ### 1. Клонирование репозитория
 
 ```bash
-git clone https://github.com/Polen452294/MAX-Python-Bot.git
+git clone https://github.com/Polen452294/Max-Python-Bot.git
 cd max_python_bot
 ```
 
